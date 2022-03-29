@@ -1,0 +1,12 @@
+
+post_avg_diffs.RData: posterior distribution of warming (The difference in the average temperature from 1995–2014 relative to 1880–1899)
+
+post_mean_trend.RData: posterior mean of the data-based trend
+
+simband_post_trend.RData : simultaneous 95% confidence band for data-based trend in elements $a and $b
+
+post_mean_sdfs.RData: posterior mean of the data-based spectral density function (SDF)
+
+simband_sdfs.Rdata : simultaneous 95% confidence band for data-based SDF in elements $a and $b
+
+
