@@ -6,6 +6,6 @@ plot.CI <- function (x, y,
                      alpha=0.05,
                      col="gray70", ...) {
 
-    polygon(c(x, rev(x)), c(lower, rev(upper)), border=col, col=col, ...)
+    polygon(c(x, rev(x)), c(lower, rev(upper)), border=NA, col=col, ...)
 }
 
