@@ -1,12 +1,12 @@
+.gitignore
 .DS_Store
 zz_Archived/*
-R_observational_model/chains/*
-R_observational_model/figures/*
-R_observational_model/trace_plots/*
-R_observational_model/trace_plots/*
 Compare_CMIP6/*
 Derived_Data/*
 figures/*
 functions/TEMP/*
 Prepare_CMIP6_data/*
 R_observational_model/*
+R_observational_model/chains/*
+R_observational_model/figures/*
+R_observational_model/trace_plots/*
