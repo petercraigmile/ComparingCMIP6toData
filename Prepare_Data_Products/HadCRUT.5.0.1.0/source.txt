@@ -1,0 +1,57 @@
+
+Downloaded on Oct 26, 2022 from
+
+https://www.metoffice.gov.uk/hadobs/hadcrut5/data/current/download.html
+
+Under HadCRUT.5.0.1.0 analysis, download:
+
+- Summary series, CSV, Global (NH+SH)/2, and Annual
+
+- Ensemble series, CSV, Global (NH+SH)/2, and Annual
+
+- Uncertainty components, CSV, Global (NH+SH)/2, and Annual
+
+
+
+
+Taken from this website:
+
+"HadCRUT5 analysis time series: ensemble means and uncertainties
+
+The following files contain time series derived from the HadCRUT5
+grids for selected regions. These 'best estimate' series are computed
+as the means of regional time series computed for each of the 200
+ensemble member realisations. Time series are presented as temperature
+anomalies (deg C) relative to 1961-1990. Time series data are provided
+in CSV and NetCDF formats.
+
+The quoted uncertainties account for uncertainty described by the 200
+ensemble members, together with an additional coverage uncertainty
+described in the HadCRUT5 paper that arises because the analysis is
+not globally complete. Details of uncertainty calculation can be found
+in the HadCRUT paper. Gridded data for the HadCRUT5 analysis ensemble
+members can be found later on this page.
+
+...
+
+HadCRUT5 analysis time series: ensemble members
+
+The following time series are monthly and annual series for each
+ensemble member of the HadCRUT5 ensemble. The time series data are
+provided in CSV and NetCDF formats.  Additional quoted uncertainties
+are estimates of uncertainty in global and regional averages with
+incomplete regional coverage. The additional uncertainties are
+identical for all ensemble members.
+
+...
+
+HadCRUT5 analysis time series: uncertainty component series
+
+The following time series files contain monthly and annual series for
+each uncertainty component represented in the HadCRUT5
+analysis. Uncertainties represented by the HadCRUT5 analysis ensemble
+are summarised here by the ensemble statndard deviations. This is
+accompanied by the additional regional coverage uncertainty that is
+not encoded in the analysis ensemble members. The time series data are
+provided in CSV and NetCDF formats."
+

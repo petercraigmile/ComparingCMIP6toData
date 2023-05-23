@@ -1,0 +1,12 @@
+
+The file
+
+totalCI_ERA.csv was downloaded from
+
+https://data.giss.nasa.gov/gistemp/graphs_v4/graph_data/totalCI_ERA.csv
+
+on January 16, 2021.
+
+
+
+

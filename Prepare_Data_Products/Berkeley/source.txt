@@ -1,0 +1,11 @@
+
+Downloaded Oct 18, 2022 from
+
+http://berkeleyearth.lbl.gov/auto/Global/Land_and_Ocean_summary.txt
+
+"Uncertainties represent the 95% confidence interval for statistical
+and spatial undersampling effects as well as ocean biases." 
+
+We recommended dividing the uncertainty values by 1.96 to obtain the
+standard error for the global mean temperatures. 
+

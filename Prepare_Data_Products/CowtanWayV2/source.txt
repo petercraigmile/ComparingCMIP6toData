@@ -1,0 +1,42 @@
+
+Downloaded on Oct 26, 2022 from
+
+https://www-users.york.ac.uk/~kdc3/papers/coverage2013/had4_krig_annual_v2_0_0.txt
+
+Further instructions at
+
+https://www-users.york.ac.uk/~kdc3/papers/coverage2013/
+
+
+
+
+"1850-present, original baseline (i.e. 1961-1990), ensemble medians 
+Global mean/uncertainty:"
+
+
+Taken from website:
+
+
+"The Met Office temperature record, HadCRUT4, is widely quoted as a
+measure of global warming. However observations are only available for
+about 84% (five sixths) of the planet. The omitted region includes the
+Arctic, which is warming much faster than the rest of the planet. As a
+result, HadCRUT4 underestimates the rate of warming in recent years.
+
+We have developed a method for using satellite data to fill in the
+gaps in the Met Office data. Our global record suggests that surface
+temperatures have been warming two and a half times faster than Met
+Office estimates over the past 16 years. Temperature trends starting
+in 1997 or 1998 are particularly affected."
+
+
+
+Also look at:
+
+https://www-users.york.ac.uk/~kdc3/papers/coverage2013/series.html
+
+"Temperature files contain 5 columns: date, temperature, total
+uncertainty (1σ), coverage uncertainty (1σ), ensemble uncertainty
+(1σ). Map data are in a similar format to the ascii files provided by
+Hadley or NCDC, i.e. 1 line with year and month followed by 36 lines
+of 72 values."

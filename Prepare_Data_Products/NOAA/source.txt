@@ -1,0 +1,15 @@
+
+The files
+
+aravg.ann.land_ocean.90S.90N.v4.0.1.201901.asc
+
+and
+
+00_Readme_timeseries
+
+were downloaded on Jan 20, 2021 from
+
+ftp://ftp.ncdc.noaa.gov/pub/data/noaaglobaltemp/operational/timeseries/
+
+
+

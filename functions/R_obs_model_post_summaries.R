@@ -18,12 +18,14 @@ summarize.Y <- function (model) {
 }
 
 
-post.Y.plot <- function (Y.summ) {
+post.Y.plot <- function (Y.summ, par=TRUE) {
 
-    par(mfrow=c(1,2), cex=0.65, mar=c(2.8,2.8,1,0.8), mgp=c(1.6,0.4,0), bty="L") 
+    if (par) {
+        par(mfrow=c(1,2), cex=0.65, mar=c(2.8,2.8,1,0.8), mgp=c(1.6,0.4,0), bty="L") 
+    }
     
     plot(Y.summ$years, Y.summ$post.mean.Y,
-         type="n", ylim=cylim, xlab="Year", ylab=anomaly.label)
+         type="n", ylim=cylim, xlim=c(1880, 2020), xlab="Year", ylab=anomaly.label)
     
     plot.CI(Y.summ$years, 
             lower=Y.summ$exc.Y$a, upper=Y.summ$exc.Y$b,
@@ -34,6 +36,7 @@ post.Y.plot <- function (Y.summ) {
     lines(Y.summ$years, Y.summ$post.mean.Y)
     
     plot(Y.summ$years, Y.summ$post.sd.Y, type="l", ylim=c(0.015,0.04),
+         xlim=c(1880, 2020),
          xlab="Year", ylab="Posterior SD")
     
     mtext("(b)", side=3, line=0, cex=0.7)    

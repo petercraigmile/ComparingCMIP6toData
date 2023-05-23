@@ -1,7 +1,7 @@
 
 
 
-trend.design.matrix <- function (years, K=6) {
+trend.design.matrix <- function (years, K=8) {
 
     cbind(1, bs(years, K))
 }

@@ -1,0 +1,18 @@
+
+
+
+Data downloaded from
+
+https://ds.data.jma.go.jp/tcc/tcc/products/gwp/temp/list/csv/year_wld.csv
+
+Our download was July 2, 2021.
+
+
+JMA_SDs.csv: Uncertainties read off JMA.pdf: Figure 2.2.1 on p.12 in the 2016 Annual Report of the Climate System, downloaded February 9, 2021, from
+
+https://ds.data.jma.go.jp/tcc/tcc/products/clisys/arcs/arcs2016_chapter02.pdf
+
+Also read:
+
+https://ds.data.jma.go.jp/tcc/tcc/products/gwp/temp/explanation.html
+
