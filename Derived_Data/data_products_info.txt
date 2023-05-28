@@ -1,0 +1,16 @@
+
+global temperature anomalies
+
+The anomalies are calculated relative to the years 1880 - 2014.
+
+
+List structure
+
+years        : year vector of length N
+
+global.anoms : global mean anomalies; matrix of dimension N x 6
+
+global.vars  : variances for the global mean anomalies; matrix of dimension N x 6
+
+labels       : the labels of the data products
+
