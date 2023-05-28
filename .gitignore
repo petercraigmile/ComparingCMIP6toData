@@ -3,7 +3,7 @@
 zz_Archived/*
 Compare_CMIP6/*
 functions/TEMP/*
-Prepare_CMIP6_data/*
+Prepare_CMIP6_data/figures/
 R_observational_model/chains/*
 R_observational_model/figures/*
 R_observational_model/trace_plots/*
