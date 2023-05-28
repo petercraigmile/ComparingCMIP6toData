@@ -1,7 +1,6 @@
 .gitignore
 .DS_Store
 zz_Archived/*
-Compare_CMIP6/*
 functions/TEMP/*
 Prepare_CMIP6_data/figures/
 R_observational_model/chains/*
