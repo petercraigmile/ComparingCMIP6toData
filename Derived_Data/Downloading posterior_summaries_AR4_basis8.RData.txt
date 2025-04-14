@@ -1,4 +1,0 @@
-posterior_summaries_AR4_basis8.RData can be downloaded from
-
-http://www.craigmile.com/peter/data/posterior_summaries_AR4_basis8.RData
-
